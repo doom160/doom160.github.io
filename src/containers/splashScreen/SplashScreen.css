@@ -3,11 +3,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  vertical-align: top;
   min-height: 100vh;
 }
 
 .splash-animation-container {
-  height: 50vh;
+  height: 20vh;
+  width: 30vh;
 }
 
 .splash-title-container {
